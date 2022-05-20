@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random_Number</string>
+    <string name="welcome_note">Welcome To My Random Number Game</string>
+    <string name="enter_game">Click To Begin</string>
+    <string name="student_name">fake name</string>
+    <string name="student_id">fake id</string>
+    <string name="generate">SPIN</string>
+    <string name="result">RESULT</string>
+    <string name="_0">0</string>
+    <string name="score">Score:</string>
+    <string name="count">Count:</string>
+</resources>
